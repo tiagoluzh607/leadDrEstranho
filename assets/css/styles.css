@@ -36,3 +36,14 @@
     max-height: 600px;
     mix-blend-mode: screen;
 }
+
+
+
+.div-img-drestranho{
+    bottom: 0;
+}
+
+.img-drestranho{
+    width: 100%;
+    max-width: 800px;
+}
