@@ -72,3 +72,12 @@ body{
     max-width: 500px;
 }
 
+
+.titulo-principal{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.div-titulo-principal{
+    max-width: 400px;
+}
+
