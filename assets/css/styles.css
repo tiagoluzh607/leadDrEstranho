@@ -1,4 +1,8 @@
 .div-secao-principal{
+    background-image: url('../../assets/img/secao-principal/fundo.jpg');
     background-color: #e5e5e5;
+    background-position: center;
+    background-size: cover;
     min-height: 600px;
+    color: white;
 } 
