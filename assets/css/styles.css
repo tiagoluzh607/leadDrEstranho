@@ -13,13 +13,14 @@
     height: 600px;
     max-width: 900px;
     min-width: 540px;
-    
+    mix-blend-mode: lighten;
 }
 
 .img-wanda{
     width: 100%;
     min-width: 400px;
     height: 600px;
+    mix-blend-mode: lighten;
 }
 
 .div-meio{
