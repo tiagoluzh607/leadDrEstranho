@@ -1,3 +1,8 @@
+body{
+    background-image: linear-gradient(to bottom, black , #0e0101);
+    color: white;
+}
+
 .div-secao-principal{
     background-image: url('../../assets/img/secao-principal/fundo.jpg');
     background-color: #e5e5e5;
