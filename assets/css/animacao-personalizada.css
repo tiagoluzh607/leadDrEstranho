@@ -30,3 +30,25 @@
         filter: brightness(1.2);
     }
 }
+
+.aparece-e-foca-4s{
+    animation: aparece-e-foca 4s ease infinite alternate;
+}
+
+.aparece-e-foca-6s{
+    animation: aparece-e-foca 6s ease infinite alternate;
+}
+
+@keyframes aparece-e-foca{
+    0%{
+        opacity: 0;
+        filter: blur(10px);
+    }
+    80%{
+        filter: blur(0px);
+    }
+    100%{
+        filter: blur(0px);
+        opacity: 1;
+    }
+}
